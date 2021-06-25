@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asokanram
 - 👀 I’m interested in 📊 data & ₿ blockchain
-- 📫 Reach out to me : ram.asokan@live.com
+- 📫 Reach out to me : ram.asokan@protonmail.ch
 
 <!---
 asokanram/asokanram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
