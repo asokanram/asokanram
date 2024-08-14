@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asokanram
-- 👀 I’m interested in 📊 data & ₿ blockchain
+- 👀 I’m interested in 📊 data | ₿ blockchain | 🧠 ai
 - 📫 Reach out to me : ram.asokan@protonmail.ch
 
 <!---
